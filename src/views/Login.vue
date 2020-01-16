@@ -37,7 +37,6 @@
 .login {
   width: 100vw;
   height: 100vh;
-  background: url("../assets/bg.png");
   display: flex;
   justify-content: center;
   align-items: center;
