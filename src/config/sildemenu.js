@@ -63,6 +63,7 @@ export default {
       }
     ]
   }],
+  // 侧边栏菜单
   headermenu:[{
     title: '首页',
     index:1,
@@ -74,4 +75,5 @@ export default {
     isShow:false,
     key:'user'
   }]
+  // 顶部菜单
 }
