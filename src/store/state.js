@@ -1,5 +1,5 @@
 function getToken () {
-  return localStorage.getItem('token');
+  return JSON.parse(localStorage.getItem('token'))||'';
 }
 
 export default  {
