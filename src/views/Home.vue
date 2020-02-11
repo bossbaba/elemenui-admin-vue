@@ -58,6 +58,7 @@ export default {
   padding: 10px;
   box-sizing: border-box;
   background: #fff;
+  width: 100vw;
 }
 .show-hidden-menu {
   margin: 10px 0;
